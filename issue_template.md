@@ -1,0 +1,6 @@
+[Device Model]
+[Link to the purchase site]
+[Firmware Installed: Date and Version]
+[Type of Car Infotainment System]
+[Steps to Reproduce the Problem]
+[Youtube link]
