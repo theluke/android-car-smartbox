@@ -5,6 +5,8 @@ XDA forum [here](https://forum.xda-developers.com/t/firmware-for-carplay-ai-boxe
 
 Telegram group [here](https://t.me/joinchat/wEH1PsavYsQ5NTA0).
 
+Original [FAQ document](https://docs.google.com/document/d/1pcyEHWQGEbZFj6DeuTscZaJRm1W2SX52vsq_sMfOFts/edit) by Tom.
+
 Firmware updates will be linked from AndroidFileHost or Google Drive.
 
 When submitting an issue, please complete the template and assign a tag if possible.
