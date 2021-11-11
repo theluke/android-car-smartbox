@@ -2,6 +2,10 @@
 
 _write here_
 
+### [Phone Model]
+
+_write here_
+
 ### [Link to the purchase site]
 
 _write here_
@@ -10,7 +14,7 @@ _write here_
 
 _write here_
 
-### [Type of Car Infotainment System]
+### [Type of Car Infotainment System, Year, Model]
 
 _write here_
 
