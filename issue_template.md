@@ -10,9 +10,9 @@ _write here_
 
 _write here_
 
-### [Firmware Installed: Date and Version]
+### [Firmware Installed: Date, Revision and Type]
 
-_write here_
+e.g.: 2021-11-02 - source Carlinkit
 
 ### [Type of Car Infotainment System, Year, Model]
 
